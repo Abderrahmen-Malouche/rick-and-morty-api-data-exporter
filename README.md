@@ -2,9 +2,14 @@
 
 A simple Python project that fetches all character data from the [Rick and Morty API](https://rickandmortyapi.com/) and exports it to a CSV file using `requests` and `pandas`.
 
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e4f7fcb5-b286-4b4b-87df-9d383959f3ff" alt="Rick and Morty" width="350">
+</p>
 
 ---
-<img width="459" height="512" alt="image" src="https://github.com/user-attachments/assets/e4f7fcb5-b286-4b4b-87df-9d383959f3ff" />
+
 ## 📋 Features
 - Fetches **all characters** from the Rick and Morty API  
 - Extracts each character’s:
